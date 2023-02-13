@@ -1,3 +1,5 @@
+> **Warning** : This repository/project is no longer maintained. If you are interested, it's free software under the GPL-3.0 license.
+
 # Break-Phishing tools
 
 ## Requirements
