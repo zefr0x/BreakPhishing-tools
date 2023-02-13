@@ -37,7 +37,7 @@ chars = string.digits + string.ascii_letters + '!@#$%^&*()'
 
 #opining names and passwords lists
 names = open('./lists/names.list', 'r').read().splitlines()
-passwords = open('./lists/fierfox-pass.list', 'r').read().splitlines()
+passwords = open('./lists/passwords.list', 'r').read().splitlines()
 
 
 

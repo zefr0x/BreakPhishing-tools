@@ -12,7 +12,7 @@
 
 * [tor service running in background](http://3gldbgtv5e4god56.onion/onion-services/setup/install/index.html) or you can just open [tor browser](https://www.torproject.org/)
 
-* Names and passwords lists in `./lists` directory (**no need** they are included by default)
+* Names and passwords lists in `./lists` directory
 
 ## notes
 
